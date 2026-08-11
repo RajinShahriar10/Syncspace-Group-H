@@ -8,5 +8,6 @@ struct Student
     void displayStudents()
     {
         cout << "Age: " << age << endl;
+        cout << "CGPA: " << cgpa << endl;
     }
 };
