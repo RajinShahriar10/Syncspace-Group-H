@@ -3,3 +3,4 @@
 ## Student CGPA
 ## Display Age
 ## Display CGPA
+## Student Department
