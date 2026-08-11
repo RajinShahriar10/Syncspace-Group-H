@@ -5,4 +5,8 @@ struct Student
     int age;
     float cgpa;
 
+    void displayStudents()
+    {
+        cout << "Age: " << age << endl;
+    }
 };
