@@ -4,7 +4,7 @@ struct Student
     char name[50];
     int age;
     float cgpa;
-    char department[30];
+    char department[50];
 
 
     void displayStudents()

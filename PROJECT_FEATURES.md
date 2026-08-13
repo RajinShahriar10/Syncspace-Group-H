@@ -10,3 +10,5 @@ The system now stores the CGPA of every student.
 ## Display Age
 ## Display CGPA
 ## Student Department
+
+The system now stores the department of every student.
