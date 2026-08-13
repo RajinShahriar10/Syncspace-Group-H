@@ -29,3 +29,7 @@
 ## Version 1.8
 
 - Added semester field to Student structure.
+
+## Version 1.9
+
+- Added creditHours field to Student structure.
