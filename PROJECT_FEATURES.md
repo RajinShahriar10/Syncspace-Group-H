@@ -1,4 +1,8 @@
 "# Implemented Features" 
+## Student Name
+
+The system supports student names up to 100 characters.
+
 ## Student Age
 
 The system now stores the age of every student.
