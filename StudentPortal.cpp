@@ -10,6 +10,7 @@ struct Student
     char address[100];
     char gender[10];
     int semester;
+    int creditHours;
 
 
     void displayStudents()
