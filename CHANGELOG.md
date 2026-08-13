@@ -37,3 +37,7 @@
 ## Version 2.0
 
 - Added status field to Student structure.
+
+## Version 2.1
+
+- Increased student name length to 100 characters.
