@@ -7,6 +7,7 @@ struct Student
     char department[50];
     char email[100];
     char address[100];
+    char gender[10];
 
 
     void displayStudents()
