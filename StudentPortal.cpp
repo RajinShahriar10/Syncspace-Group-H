@@ -5,6 +5,7 @@ struct Student
     int age;
     float cgpa;
     char department[50];
+    char email[100];
 
 
     void displayStudents()
