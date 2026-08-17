@@ -13,7 +13,5 @@ Student Management System is a simple project used to practice Git workflow mana
 
 ## Team Members
 
-- Student 1
-- Student 2
-- Student 3
-- Student 4
+- MD. RAJIN SHAHRIAR
+- PURNA PAUL
