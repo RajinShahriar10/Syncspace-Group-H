@@ -58,3 +58,6 @@
 
 - Renamed student name field to studentName.
 
+## Version 2.6
+
+- Added project description to README.
