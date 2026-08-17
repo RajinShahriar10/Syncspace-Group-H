@@ -1,12 +1,10 @@
-# Implemented Features
-
 ## Student ID
 
 The system stores a unique student ID for every student.
 
 ## Student Name
 
-The system supports student names up to 100 characters.
+The system supports student names up to 100 characters (studentName field).
 
 ## Student Age
 
