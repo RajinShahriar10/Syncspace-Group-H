@@ -57,3 +57,4 @@
 ## Version 2.5
 
 - Renamed student name field to studentName.
+
