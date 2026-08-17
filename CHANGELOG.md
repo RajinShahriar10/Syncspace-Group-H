@@ -61,3 +61,7 @@
 ## Version 2.6
 
 - Added project description to README.
+
+## Version 2.7
+
+- Added project structure section to README.
