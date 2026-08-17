@@ -1,7 +1,7 @@
 "# Implemented Features" 
 ## Student Name
 
-The system supports student names up to 100 characters.
+The system supports student names up to 100 characters (studentName field).
 
 ## Student Age
 
