@@ -49,3 +49,8 @@
 ## Version 2.3
 
 - Increased phone number field capacity to 25 characters.
+
+## Version 2.4
+
+- Renamed student id field to studentId.
+
