@@ -65,3 +65,7 @@
 ## Version 2.7
 
 - Added project structure section to README.
+
+## Version 2.8
+
+- Added team information to README.
