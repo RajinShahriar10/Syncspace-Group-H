@@ -45,3 +45,7 @@
 ## Version 2.2
 
 - Increased address field capacity to 200 characters.
+
+## Version 2.3
+
+- Increased phone number field capacity to 25 characters.
