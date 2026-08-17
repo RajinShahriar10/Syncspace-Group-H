@@ -49,3 +49,23 @@
 ## Version 2.3
 
 - Increased phone number field capacity to 25 characters.
+
+## Version 2.4
+
+- Renamed student id field to studentId.
+
+## Version 2.5
+
+- Renamed student name field to studentName.
+
+## Version 2.6
+
+- Added project description to README.
+
+## Version 2.7
+
+- Added project structure section to README.
+
+## Version 2.8
+
+- Added team information to README.
