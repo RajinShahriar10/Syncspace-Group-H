@@ -53,3 +53,4 @@
 ## Version 2.4
 
 - Renamed student id field to studentId.
+

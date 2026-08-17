@@ -28,7 +28,7 @@ The system now stores the email of every student.
 
 ## Student Phone Number
 
-The system now stores the phone number of every student.
+The system supports student phone numbers up to 25 characters.
 ## Student Address
 
 The system supports student addresses up to 200 characters.
