@@ -1,5 +1,45 @@
 # Changelog
 
+## Version 3.0
+
+- Updated project features documentation.
+
+## Version 2.9
+
+- Organized CHANGELOG with proper version headings.
+
+## Version 2.8
+
+- Added team information to README.
+
+## Version 2.7
+
+- Added project structure section to README.
+
+## Version 2.6
+
+- Added project description to README.
+
+## Version 2.5
+
+- Renamed student name field to studentName.
+
+## Version 2.4
+
+- Renamed student id field to studentId.
+
+## Version 2.3
+
+- Increased phone number field capacity to 25 characters.
+
+## Version 2.2
+
+- Increased address field capacity to 200 characters.
+
+## Version 2.1
+
+- Increased student name length to 100 characters.
+
 ## Version 2.0
 
 - Added student status field to Student structure.
@@ -43,25 +83,3 @@
 ## Version 1.0
 
 - Initial Student structure created with id and name fields.
-- Increased phone number field capacity to 25 characters.
-
-## Version 2.4
-
-- Renamed student id field to studentId.
-
-## Version 2.5
-
-- Renamed student name field to studentName.
-
-## Version 2.6
-
-- Added project description to README.
-
-## Version 2.7
-
-- Added project structure section to README.
-
-## Version 2.8
-
-- Added team information to README.
-
